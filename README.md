@@ -11,6 +11,7 @@ I'm a current CS student at FIU.
 Python, Java, HTML, CSS
 
 🌱 I’m currently learning Web Development.
+
 ⚡ Fun facts: I speak Cantonese and used to sell drugs as a licensed Pharmacist.
 <!--
 **bs-wat/bs-wat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
