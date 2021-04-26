@@ -1,11 +1,13 @@
-### Hey, I'm Brandon Wat 👋
+## Hey, I'm Brandon Wat 👋
 
 I'm a current CS student at FIU.
 
-📫 How to reach me:
+# 📫 How to reach me:
+
 [Linkedin](https://www.linkedin.com/in/brandonwat/)
 
-Technologies:
+# Technologies:
+
 Python, Java, HTML, CSS
 
 🌱 I’m currently learning Web Development.
