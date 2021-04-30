@@ -1,18 +1,18 @@
-### Hey, I'm Brandon Wat 👋
+## Hey, I'm Brandon Wat 👋
 
 I'm a current CS student at FIU.
 
-##### 📫 How to reach me:
+#### 📫 How to reach me:
 
 [Linkedin](https://www.linkedin.com/in/brandonwat/)
 
-##### Technologies:
+#### Technologies:
 
 Python, Java, HTML, CSS
 
-🌱 I’m currently learning Web Development.
+🌱 I’m currently learning Web Development over Summer 2021.
 
-⚡ Fun facts: I speak Cantonese and used to sell drugs as a licensed Pharmacist.
+⚡ Fun facts: I speak Cantonese and used to sell drugs as a Registered Pharmacist in FL/TX.
 <!--
 **bs-wat/bs-wat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
