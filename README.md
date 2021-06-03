@@ -1,6 +1,6 @@
-## Hey, I'm Brandon Wat 👋
+## Hey, I'm Brandon 👋
 
-I'm a current CS student at FIU.
+### I'm a CS student at FIU.
 
 #### 📫 How to reach me:
 
