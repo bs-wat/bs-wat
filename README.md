@@ -13,6 +13,8 @@
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![image](https://img.shields.io/badge/VS%20Code-2874a6?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
 🌱 I’m currently learning Web Development over Summer 2021.
 
 ⚡ Fun facts: I speak Cantonese and used to sell drugs as a Registered Pharmacist in FL/TX.
