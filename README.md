@@ -15,7 +15,7 @@
 
 ![image](https://img.shields.io/badge/VS%20Code-2874a6?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-🌱 I’m currently learning Web Development over Summer 2021.
+🌱I am currently looking for internships for Summer 2022.
 
 ⚡ Fun facts: I speak Cantonese and used to sell drugs as a Registered Pharmacist in FL/TX.
 <!--
